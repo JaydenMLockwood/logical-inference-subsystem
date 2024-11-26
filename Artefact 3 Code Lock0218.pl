@@ -1,5 +1,6 @@
 % Author: Jayden Lockwood
 % Assignment: Artifact 3
+% Grade: High Distinction
 % FAN: *******
 % Date of Creation: 08/11/24
 % Prolog knowledge base for trafficIQ subsystem
